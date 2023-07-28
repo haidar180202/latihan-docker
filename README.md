@@ -27,7 +27,7 @@ docker --version
 ```
 
 so you can see this if your installed is complete 
-![hasil perintah](https://github.githubassets.com/assets-dokumentasi/checkversi.PNG)
+![hasil perintah](https://github.com/haidar180202/latihan-docker/assets-dokumentasi/checkversi.PNG)
 
 Check the `README.md` of each sample to get more details on the structure and
 what is the expected output.
