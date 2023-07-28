@@ -1,6 +1,8 @@
 # Individual Assignment Docker And Node.js[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-![logo](https://i.morioh.com/2020/01/30/682d7390521c.jpg)
+<p align="center">
+  <img src="https://i.morioh.com/2020/01/30/682d7390521c.jpg" width="40%" alt="logo">
+</p>
 
 ## Getting started
 
