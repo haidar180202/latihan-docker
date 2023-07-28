@@ -1,4 +1,5 @@
-# Individual Assignment Docker And Node.js <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" width="90" alt="Contoh Gambar">
+# Individual Assignment Docker And Node.js <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" width="90" alt="node.js logo"> <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" width="90" alt="docker logo">
+
 
 <p align="center">
   <img src="https://i.morioh.com/2020/01/30/682d7390521c.jpg" width="60%" alt="logo">
