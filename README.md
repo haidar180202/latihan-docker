@@ -28,7 +28,7 @@ docker --version
 
 so you can see this if your installed is complete 
 
-[checkversi.jpg](https://i.postimg.cc/XN5Ln4Wf/checkversi.jpg)
+![checkversi.jpg](https://i.postimg.cc/XN5Ln4Wf/checkversi.jpg)
 
 Check the `README.md` of each sample to get more details on the structure and
 what is the expected output.
