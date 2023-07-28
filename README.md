@@ -12,9 +12,9 @@ with Node.js and docker simulation container.
 
 ### Prerequisites
 
-- Make sure that you have Docker and Docker Compose installed
+- Make sure that you have Docker to installed in your device
   - Windows or macOS:
     [Install Docker Desktop](https://www.docker.com/get-started)
-  - Linux: [Install Docker](https://www.docker.com/get-started) and then
-    [Docker Compose](https://github.com/docker/compose)
-- Download some or all of the samples from this repository.
+  - Linux: [Install Docker](https://www.docker.com/get-started)
+- Download or copy this [data](https://gist.github.com/berdoezt/e51718982926f0caa3fcd8ed45111430) and add all with name app.js in your folder.
+  
