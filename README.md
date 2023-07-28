@@ -1,6 +1,6 @@
 # Individual Assignment Docker And Node.js[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-![logo](awesome-compose.jpg)
+![logo](https://i.morioh.com/2020/01/30/682d7390521c.jpg)
 
 ## Getting started
 
