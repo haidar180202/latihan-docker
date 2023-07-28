@@ -20,12 +20,11 @@ with Node.js and docker simulation container.
   
 ### Running a sample
 
-The root directory of each sample contains the `compose.yaml` which
-describes the configuration of service components. All samples can be run in
-a local environment by going into the root directory of each one and executing:
+After you install docker, run the file that you installed until the file that is installed 
+is complete and check with:
 
 ```console
-docker compose up -d
+docker --version
 ```
 
 Check the `README.md` of each sample to get more details on the structure and
