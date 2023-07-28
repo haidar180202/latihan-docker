@@ -18,3 +18,24 @@ with Node.js and docker simulation container.
   - Linux: [Install Docker](https://www.docker.com/get-started)
 - Download or copy this [data](https://gist.github.com/berdoezt/e51718982926f0caa3fcd8ed45111430) and add all with name app.js in your folder.
   
+### Running a sample
+
+The root directory of each sample contains the `compose.yaml` which
+describes the configuration of service components. All samples can be run in
+a local environment by going into the root directory of each one and executing:
+
+```console
+docker compose up -d
+```
+
+Check the `README.md` of each sample to get more details on the structure and
+what is the expected output.
+To stop and remove all containers of the sample application run:
+
+```console
+docker compose down
+```
+
+### Quickstart guides
+
+In addition to all the ready to run Compose samples listed above the folder [official-documentation-samples](official-documentation-samples/README.md) contains quickstart guides. Each of these step by step guides explain which files need to be created to build and run a Docker Compose application.
