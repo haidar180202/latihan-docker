@@ -20,12 +20,14 @@ with Node.js and docker simulation container.
   
 ### Running a sample
 
-After you install docker, run the file that you installed until the file that is installed 
-is complete and check with:
+After you install docker, run the file that you installed until the file that is installed is complete and check with:
 
 ```console
 docker --version
 ```
+
+so you can see this if your installed is complete 
+![hasil perintah](https://github.githubassets.com/assets-dokumentasi/checkversi.PNG)
 
 Check the `README.md` of each sample to get more details on the structure and
 what is the expected output.
