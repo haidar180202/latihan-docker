@@ -28,7 +28,7 @@ docker --version
 
 so you can see this if your installed is complete 
 
-<img src="https://drive.google.com/file/d/1Kx7HzFNwddRyqITxWdqHVcAEwm034bKm/view" alt="check versi">
+<img src="./assets-dokumentasi/checkversi.png">
 
 
 Check the `README.md` of each sample to get more details on the structure and
