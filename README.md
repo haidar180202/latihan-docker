@@ -30,9 +30,10 @@ so you can see this if your installed is complete
 
 ![checkversi.jpg](https://i.postimg.cc/XN5Ln4Wf/checkversi.jpg)
 
-Check the `README.md` of each sample to get more details on the structure and
-what is the expected output.
-To stop and remove all containers of the sample application run:
+After this lets go to your folder application and create the dockerfile 
+so after this your application is have like this
+
+![structurfolder.png](https://i.postimg.cc/8cKtQ9Nc/structurfolder-haikal.png)
 
 ```console
 docker compose down
